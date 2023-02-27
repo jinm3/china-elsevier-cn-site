@@ -329,7 +329,7 @@
           twitter: 'https://twitter.com/ElsevierConnect/',
           youtube: 'https://www.youtube.com/channel/UCeg3r-A2cTOUNHB1vvKBT9g',
           pinterest: 'https://pinterest.com/elsevierauthorservices/',
-          localeCn: 'https://cn.order.webshop.elsevier.com',
+          localeCn: 'https://Webshop.elsevier.cn',
           localeGlobal: 'http://cn.order.webshop.elsevier.com',
           dealsVideo:
             'https://www.youtube.com/embed/gHLFOgaUbl4?rel=0&autoplay=1',
