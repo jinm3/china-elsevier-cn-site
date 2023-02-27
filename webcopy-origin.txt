@@ -1,0 +1,748 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://assets.adobedtm.com/4a848ae9611a/3b7120286094/launch-e7a51022b5ec.min.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\4a848ae9611a\3b7120286094\launch-e7a51022b5ec.min.js
+Content Type: application/x-javascript
+
+Uri: https://assets.adobedtm.com/extensions/EPbde2f7ca14e540399dcc1f8208860b7b/AppMeasurement.min.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\extensions\EPbde2f7ca14e540399dcc1f8208860b7b\AppMeasurement.min.js
+Content Type: application/x-javascript
+
+Uri: https://assets.adobedtm.com/extensions/EPbde2f7ca14e540399dcc1f8208860b7b/AppMeasurement_Module_ActivityMap.min.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\extensions\EPbde2f7ca14e540399dcc1f8208860b7b\AppMeasurement_Module_ActivityMap.min.js
+Content Type: application/x-javascript
+
+Uri: https://authors.webshop.elsevier.com/assets/js/simulator-b1b929592b.min.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\assets\js\simulator-b1b929592b.min.js
+Content Type: application/javascript
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=0a1862c6-0598-4f53-9d80-f1f8e3bf68b2&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=英文加急翻译服务 - Webshop | Elsevier&kw=加急翻译, 翻译服务报价, 英语翻译服务, 论文校对翻译&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-translation-services%2F&r=&lt=1318&evt=pageLoad&sv=1&rn=46435
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-8
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=1281343e-9bef-4970-860c-f5df9febb89a&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=优秀博士论文指导 | Elsevier&kw=博士论文, 优秀博士论文, 博士毕业论文, 全国优秀博士论文&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Fphd-thesis-editing%2F&r=&lt=1327&evt=pageLoad&sv=1&rn=530479
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-13
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=1df0db84-5ae0-4da9-8d9e-64ea955fb67b&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=学术论文撰写更轻松| Elsevier&kw=论文撰写, 学术论文撰写, 论文撰写步骤, 学术论文怎么写&p=https:%2F%2Fcn.webshop.elsevier.com%2Fwriting%2F&r=&lt=1054&evt=pageLoad&sv=1&rn=734119
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-15
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=330e2ee5-5f5e-46af-b138-2eeb2f335c51&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=中文（简体）翻译加急服务 - Webshop | Elsevier&kw=中文翻译, 翻译成中文, 翻译中文, 翻译服务&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-translation-services%2Ftranslate-chinese-simplified%2F&r=&lt=1205&evt=pageLoad&sv=1&rn=279035
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-9
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=34d314cc-e1e8-4b12-867a-106d9c898d6a&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=科研绘图让研究一目了然 - Webshop | Elsevier&kw=科研绘图, 学术图片, 可视化数据图, 科研作图&p=https:%2F%2Fcn.webshop.elsevier.com%2Fillustration-services%2Facademic-infographics%2F&r=&lt=1035&evt=pageLoad&sv=1&rn=877104
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-18
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=4d6f141c-da92-4253-b29a-5b7f883b5ca7&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=专业的插图辅助 - Webshop | Elsevier&kw=插图, 论文配图, 可视化图表, 论文插图&p=https:%2F%2Fcn.webshop.elsevier.com%2Fillustration-services%2F&r=&lt=2291&evt=pageLoad&sv=1&rn=578203
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-24
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=4f99e6ba-138c-4127-bede-f4ac538ef567&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=论文服务为研究打下基础 | Elsevier&kw=论文服务, 学术交流, 期刊查询, 核心期刊目录&p=https:%2F%2Fcn.webshop.elsevier.com%2Fresearch-preparation%2F&r=&lt=1027&evt=pageLoad&sv=1&rn=869302
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-14
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=6fc69ab0-bdfd-4a70-a1dc-655e4234d53b&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=出版证书纪念出版 - Webshop | Elsevier&kw=出版证书, 出版出书, 出版服务, 国内期刊&p=https:%2F%2Fcn.webshop.elsevier.com%2Farticle-services%2Fpublication-recognition%2F&r=&lt=1189&evt=pageLoad&sv=1&rn=799522
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-12
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=71e5e1a0-f7d1-4c9f-bffb-28d9e6b74117&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=1&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=英文论文校对使论文不再干涩 - Webshop | Elsevier&kw=英文论文校对, 论文审阅, sci论文校对, 论文修改&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Flanguage-editing%2F&r=&lt=2383&evt=pageLoad&sv=1&rn=675722
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=72a7a28d-2c22-4f94-a8a0-5a3cf2f29fc9&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=联系 Webshop 销售团队获取团购信息 | Elsevier&p=https:%2F%2Fcn.webshop.elsevier.com%2Fgroup-deals%2F&r=&lt=963&evt=pageLoad&sv=1&rn=626178
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-7
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=76d4551b-5aaf-43ef-acd9-239148f19f80&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=博士论文排版查重校对 - Webshop | Elsevier&kw=论文排版, 论文语言校对, 论文格式排版, 英文论文查重&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Fphd-thesis-editing%2Fplus%2F&r=&lt=1216&evt=pageLoad&sv=1&rn=443730
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-6
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=7711143b-4c1c-44b3-9c1e-ce24bf71a625&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=提交 | Elsevier&p=https:%2F%2Fcn.webshop.elsevier.com%2Fsubmission%2F&r=&lt=988&evt=pageLoad&sv=1&rn=606263
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-16
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=797fa543-40b7-424b-8949-dcef0d95bb0c&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=本网站 Cookies 的使用 | Elsevier&p=https:%2F%2Fcn.webshop.elsevier.com%2Fcookies%2F&r=&lt=977&evt=pageLoad&sv=1&rn=617517
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-21
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=8b4c7448-fbcb-4458-b0e8-18fc053adcb4&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=书刊出版服务更到位 - Webshop | Elsevier&kw=书刊出版, Elsevier, 出版流程, 期刊出版&p=https:%2F%2Fcn.webshop.elsevier.com%2Farticle-services%2F&r=&lt=1164&evt=pageLoad&sv=1&rn=638083
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-10
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=92fd3ebf-432b-4d4c-8fe3-0b82f19cdb33&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=精美期刊分享首选 - Webshop | Elsevier&kw=期刊, 期刊印刷, 期刊介绍, 文章分享&p=https:%2F%2Fcn.webshop.elsevier.com%2Farticle-services%2Fjournal-issues%2F&r=&lt=1103&evt=pageLoad&sv=1&rn=492454
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-11
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=96a36d6b-2011-4751-b6f6-e842ddcfa380&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=科学插图让研究可视化 - Webshop | Elsevier&kw=科学插图, 科学可视化, 可视化报表, 可视化分析&p=https:%2F%2Fcn.webshop.elsevier.com%2Fillustration-services%2Fscientific-illustration%2F&r=&lt=1830&evt=pageLoad&sv=1&rn=939202
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-25
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=970f9e76-f984-4197-b5c5-2aac0e4aa8c9&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=Contact Webshop Team for More Informations | Elsevier&p=https:%2F%2Fcn.webshop.elsevier.com%2Fcontact-us%2F&r=&lt=873&evt=pageLoad&sv=1&rn=682205
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-22
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=ab8609cd-30f6-48d9-b2fa-0471311194f7&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=博士论文英语校对 - Webshop | Elsevier&kw=博士论文校对, 博士论文要求, 优秀研究生论文, 论文查重&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Fphd-thesis-editing%2Fstandard%2F&r=&lt=1249&evt=pageLoad&sv=1&rn=394733
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-5
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=b9907df8-f9d2-4df6-9bb2-60a190aef11b&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=英语母语编辑论文指导 - Webshop | Elsevier&kw=论文指导, 论文要求, 论文初稿, 论文编辑&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Fnative-english-editors%2F&r=&lt=1761&evt=pageLoad&sv=1&rn=759463
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-23
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=ba7f94da-8184-41a4-8e79-f16a8115a97a&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=发论文期刊专业且全面 | Elsevier&kw=发论文期刊, 发期刊论文, 期刊校对, Webshop&p=https:%2F%2Fcn.webshop.elsevier.com%2Fabout%2F&r=&lt=979&evt=pageLoad&sv=1&rn=653740
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-20
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=bee88608-619e-4c96-841e-81b2d966c269&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=elsevier校对加急业务 - Webshop | Elsevier&kw=elsevier校对, 修改论文, 校对公司, 英文校对&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Flanguage-editing-express%2F&r=&lt=1248&evt=pageLoad&sv=1&rn=441425
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-3
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=c80cf6fd-8c62-4ea7-a073-93984199de9a&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=高效助力您的期刊发表 | Elsevier&kw=期刊发表, 校对文章, sci语言校对, Mendeley&p=https:%2F%2Fcn.webshop.elsevier.com%2Fafter-publication%2F&r=&lt=1043&evt=pageLoad&sv=1&rn=431117
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-17
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=cdfeac95-6a91-40bd-a9e3-330738e3afa2&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=LaTex的语言校对与降重 - Webshop | Elsevier&kw=语言校对, 论文查重修改, 校对机构, 文章校对&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Flatex-editing%2F&r=&lt=2176&evt=pageLoad&sv=1&rn=407864
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-4
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=ce74004f-91f8-4712-a5e7-798c0dde7da4&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=文章服务运输与递送服务 - Webshop | Elsevier&p=https:%2F%2Fcn.webshop.elsevier.com%2Fshipping-and-delivery%2F&r=&lt=1419&evt=pageLoad&sv=1&rn=56506
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-19
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=cf53d8e1-bd32-4604-b6e7-3094783eb156&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=高级英文校对降重 - Webshop | Elsevier&kw=英文 校对, 论文降重, sci论文怎么校对, sci校对收费&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Flanguage-editing-plus%2F&r=&lt=1240&evt=pageLoad&sv=1&rn=691410
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-2
+Content Type: 
+
+Uri: https://bat.bing.com/action/0?ti=15083256&tm=gtm002&Ver=2&mid=fa6c2a0f-dbf2-4664-b226-08e19f9588e4&sid=7a8bf8f0b40311ed9e9c2b1ca7fed753&vid=7a8bfa80b40311eda51a95b8c3885a01&vids=0&msclkid=N&pi=0&lg=zh-CN&sw=1498&sh=890&sc=24&tl=标准论文校对服务价格 - Webshop | Elsevier&kw=论文校对, 论文校对收费, 英语校对, 论文校对收费标准&p=https:%2F%2Fcn.webshop.elsevier.com%2Flanguage-editing-services%2Fstandard-edition%2F&r=&lt=1647&evt=pageLoad&sv=1&rn=208862
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\action\0-1
+Content Type: 
+
+Uri: https://bat.bing.com/bat.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\bat.js
+Content Type: application/javascript
+
+Uri: https://cdn.cookielaw.org/logos/static/ot_external_link.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\logos\static\ot_external_link.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cookielaw.org/logos/static/ot_persistent_cookie_icon.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\logos\static\ot_persistent_cookie_icon.png
+Content Type: image/png
+
+Uri: https://cdn.cookielaw.org/scripttemplates/202301.2.0/otBannerSdk.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\scripttemplates\202301.2.0\otBannerSdk.js
+Content Type: application/javascript
+
+Uri: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\scripttemplates\otSDKStub.js
+Content Type: application/javascript
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/favicon-160x160.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\favicon-160x160.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/favicon-192x192.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\favicon-192x192.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://cdn.elsevier.io/verona/includes/favicons/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\verona\includes\favicons\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://cdn.polyfill.io/v2/polyfill.min.js?features=Array.prototype.includes,String.prototype.startsWith,Symbol
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\v2\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://cn.webshop.elsevier.com/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/0-a6e4d665018a84c97ae9.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\0-a6e4d665018a84c97ae9.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/1-a58bc61ff079b4b23d28.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\1-a58bc61ff079b4b23d28.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/17-4f32ee7a79ac3f564c9b.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\17-4f32ee7a79ac3f564c9b.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/2-f49d28a6534f20b1fa4c.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\2-f49d28a6534f20b1fa4c.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/3-9d6a6fa9378e87341d92.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\3-9d6a6fa9378e87341d92.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/4-fa735114d81fc51bd204.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\4-fa735114d81fc51bd204.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/about/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\about\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/after-publication/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\after-publication\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/app-074e725a4843c1438ffa.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\app-074e725a4843c1438ffa.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/article-services/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\article-services\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/article-services/journal-issues/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\article-services\journal-issues\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/article-services/publication-recognition/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\article-services\publication-recognition\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-content-page-js-8cdf043b176a63f069d3.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-content-page-js-8cdf043b176a63f069d3.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-group-deals-js-2047cdb09174b49caf2b.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-group-deals-js-2047cdb09174b49caf2b.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-home-js-67ce4d3c998fcdbbc0af.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-home-js-67ce4d3c998fcdbbc0af.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-knowledge-detail-js-a70bad14e3d9f40340e4.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-knowledge-detail-js-a70bad14e3d9f40340e4.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-product-detail-js-cef4259a26c630f2702a.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-product-detail-js-cef4259a26c630f2702a.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-product-overview-js-4ebccfcc1ee1169da338.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-product-overview-js-4ebccfcc1ee1169da338.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-service-detail-illustration-js-64937976105780afcb95.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-service-detail-illustration-js-64937976105780afcb95.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-service-detail-js-124441dcd5859d8b3791.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-service-detail-js-124441dcd5859d8b3791.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/component---src-templates-service-overview-js-743b99fd63f6acc23fef.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\component---src-templates-service-overview-js-743b99fd63f6acc23fef.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/contact-us/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/cookies/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\cookies\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/group-deals/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\group-deals\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/illustration-services/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\illustration-services\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/illustration-services/academic-infographics/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\illustration-services\academic-infographics\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/illustration-services/scientific-illustration/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\illustration-services\scientific-illustration\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/images/alipay.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\alipay.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/amex.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/badge-2.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\badge-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/badge.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\badge.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/calendar.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/credit.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\credit.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/document.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\document.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/elsevier.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\elsevier.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/express-services.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\express-services.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/formats_mobile.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\formats_mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/hands.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\hands.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration/gallery/Graphs_Charts-3d.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration\gallery\Graphs_Charts-3d.png
+Content Type: image/png
+
+Uri: https://cn.webshop.elsevier.com/images/illustration/gallery/Image_Polishing-conversion.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration\gallery\Image_Polishing-conversion.png
+Content Type: image/png
+
+Uri: https://cn.webshop.elsevier.com/images/illustration/gallery/Technical_4-color.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration\gallery\Technical_4-color.png
+Content Type: image/png
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_illustration_services_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_illustration_services_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_language_editing_basic_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_language_editing_basic_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_language_editing_express_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_language_editing_express_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_language_editing_latex_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_language_editing_latex_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_language_editing_overview_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_language_editing_overview_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_language_editing_phd_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_language_editing_phd_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_language_editing_plus_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_language_editing_plus_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_translation_basic_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_translation_basic_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_translation_chinese_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_translation_chinese_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_webshop_products_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_webshop_products_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_writing_after_publication_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_writing_after_publication_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_writing_research_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_writing_research_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_writing_submission_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_writing_submission_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/illustration_writing_writing_480.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\illustration_writing_writing_480.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/infographics/gallery/1_right.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\infographics\gallery\1_right.png
+Content Type: image/png
+
+Uri: https://cn.webshop.elsevier.com/images/infographics/product-image/10_right.jpg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\infographics\product-image\10_right.jpg
+Content Type: image/jpeg
+
+Uri: https://cn.webshop.elsevier.com/images/infographics/product-image/5_right.jpg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\infographics\product-image\5_right.jpg
+Content Type: image/jpeg
+
+Uri: https://cn.webshop.elsevier.com/images/mastercard.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/money-back.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\money-back.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/one-person.jpg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\one-person.jpg
+Content Type: image/jpeg
+
+Uri: https://cn.webshop.elsevier.com/images/paypal.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/plus100.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\plus100.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/prices.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\prices.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/products/journal-issues/Journal issues_stack.jpg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\products\journal-issues\Journal issues_stack.jpg
+Content Type: image/jpeg
+
+Uri: https://cn.webshop.elsevier.com/images/products/publication-recognition/Publication_recognition_Sample_1.jpg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\products\publication-recognition\Publication_recognition_Sample_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cn.webshop.elsevier.com/images/products/publication-recognition/Publication_recognition_Sample_2.jpg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\products\publication-recognition\Publication_recognition_Sample_2.jpg
+Content Type: image/jpeg
+
+Uri: https://cn.webshop.elsevier.com/images/products/publication-recognition/Publication_recognition_Sample_3.jpg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\products\publication-recognition\Publication_recognition_Sample_3.jpg
+Content Type: image/jpeg
+
+Uri: https://cn.webshop.elsevier.com/images/relx-no-group.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\relx-no-group.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/success.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\success.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/unionpay.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\unionpay.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/various-formats.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\various-formats.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/video_thumbnail.png
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\video_thumbnail.png
+Content Type: image/png
+
+Uri: https://cn.webshop.elsevier.com/images/visa.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/vouchers.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\vouchers.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/images/wechatpay-2.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\images\wechatpay-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/language-editing-express/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\language-editing-express\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/language-editing-plus/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\language-editing-plus\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/language-editing/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\language-editing\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/latex-editing/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\latex-editing\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/native-english-editors/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\native-english-editors\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/phd-thesis-editing/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\phd-thesis-editing\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/phd-thesis-editing/plus/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\phd-thesis-editing\plus\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/phd-thesis-editing/standard/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\phd-thesis-editing\standard\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-editing-services/standard-edition/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-editing-services\standard-edition\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-translation-services/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-translation-services\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/language-translation-services/translate-chinese-simplified/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\language-translation-services\translate-chinese-simplified\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/research-preparation/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\research-preparation\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/shipping-and-delivery/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\shipping-and-delivery\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/static/d/124/path---cookies-422-a0a-QDFLBdF6Ez5rqKLzQWDoj2Bd0.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\124\path---cookies-422-a0a-QDFLBdF6Ez5rqKLzQWDoj2Bd0.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/13/path---research-preparation-7-c-2-527-6gny2IXjbrZbjuXfryWp8qQ4BBE.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\13\path---research-preparation-7-c-2-527-6gny2IXjbrZbjuXfryWp8qQ4BBE.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/138/path---language-editing-services-language-editing-d-25-6e3-k4uGQF8wMijWTglcRuJPwYhqRI.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\138\path---language-editing-services-language-editing-d-25-6e3-k4uGQF8wMijWTglcRuJPwYhqRI.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/139/path---article-services-37-b-ac0-lrY77q0mJhr7zXGtJxUCS9EHY.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\139\path---article-services-37-b-ac0-lrY77q0mJhr7zXGtJxUCS9EHY.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/173/path---language-editing-services-standard-edition-f-20-9d6-oiwJ6wqjL08HZXNYmt3sIodZbb0.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\173\path---language-editing-services-standard-edition-f-20-9d6-oiwJ6wqjL08HZXNYmt3sIodZbb0.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/19/path---language-translation-services-532-f06-Tife4KXiyfZbIfyLK8UhvXJsEg.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\19\path---language-translation-services-532-f06-Tife4KXiyfZbIfyLK8UhvXJsEg.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/203/path---illustration-services-ad-4-59c-hjjTtu9cdzjlUghYk2iwRRj65QU.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\203\path---illustration-services-ad-4-59c-hjjTtu9cdzjlUghYk2iwRRj65QU.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/213/path---group-deals-1-f-9-d9e-BWvGbZYeDLj5dBHZgYnPnwXMs.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\213\path---group-deals-1-f-9-d9e-BWvGbZYeDLj5dBHZgYnPnwXMs.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/220/path---illustration-services-scientific-illustration-819-d22-ywt0jJhvChC0aMTW5ai5Dvcawc.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\220\path---illustration-services-scientific-illustration-819-d22-ywt0jJhvChC0aMTW5ai5Dvcawc.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/223/path---index-6a9-Kto0mzy8bekhAak5OCJocRwFyx4.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\223\path---index-6a9-Kto0mzy8bekhAak5OCJocRwFyx4.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/303/path---article-services-publication-recognition-e-80-4c9-f0rFHhSgM7UPH3W3HrJKBnr6tTQ.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\303\path---article-services-publication-recognition-e-80-4c9-f0rFHhSgM7UPH3W3HrJKBnr6tTQ.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/390/path---article-services-journal-issues-e-7-f-e0e-5LkoQOA5Lbwh8cUSynpsNBKNBH0.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\390\path---article-services-journal-issues-e-7-f-e0e-5LkoQOA5Lbwh8cUSynpsNBKNBH0.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/393/path---language-editing-services-phd-thesis-editing-d-88-709-EkEjLAoSsXvrAwO7KeXgSdEa4c.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\393\path---language-editing-services-phd-thesis-editing-d-88-709-EkEjLAoSsXvrAwO7KeXgSdEa4c.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/491/path---language-editing-services-phd-thesis-editing-plus-ec-6-2ff-DDsVvA9m4XaKfqAyKiEKnxZ8dGI.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\491\path---language-editing-services-phd-thesis-editing-plus-ec-6-2ff-DDsVvA9m4XaKfqAyKiEKnxZ8dGI.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/504/path---language-editing-services-language-editing-plus-d-9-e-23e-kTDHyLwJO2EsqlREANSHvtrjGnY.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\504\path---language-editing-services-language-editing-plus-d-9-e-23e-kTDHyLwJO2EsqlREANSHvtrjGnY.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/541/path---about-f-34-4c2-ns9pRbSmSNlGapt82OYg9OEVvw.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\541\path---about-f-34-4c2-ns9pRbSmSNlGapt82OYg9OEVvw.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/556/path---language-editing-services-latex-editing-070-6a1-wRjfXxEAEA5BDElEsCY1FMkRIXY.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\556\path---language-editing-services-latex-editing-070-6a1-wRjfXxEAEA5BDElEsCY1FMkRIXY.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/558/path---shipping-and-delivery-891-a15-QCmAUkqd3OVzcZrnkPvu8iN0rY.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\558\path---shipping-and-delivery-891-a15-QCmAUkqd3OVzcZrnkPvu8iN0rY.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/640/path---submission-882-a1f-vtkUwrn8ZkWRKt815mFUs5bC1Wo.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\640\path---submission-882-a1f-vtkUwrn8ZkWRKt815mFUs5bC1Wo.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/727/path---language-editing-services-native-english-editors-81-c-429-ANjuzbUtrMupYtMmnJe7hXkIw2E.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\727\path---language-editing-services-native-english-editors-81-c-429-ANjuzbUtrMupYtMmnJe7hXkIw2E.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/732/path---language-editing-services-phd-thesis-editing-standard-97-a-34c-iFQzncCFq6cFJ8k8xStk0Xjjic.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\732\path---language-editing-services-phd-thesis-editing-standard-97-a-34c-iFQzncCFq6cFJ8k8xStk0Xjjic.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/745/path---after-publication-531-f37-OEBGuCwUTD1blQ6QhXf76Y2Hm4.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\745\path---after-publication-531-f37-OEBGuCwUTD1blQ6QhXf76Y2Hm4.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/763/path---illustration-services-academic-infographics-96-d-e41-fDeIxKsnsnTW28j9R56IefJeJE.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\763\path---illustration-services-academic-infographics-96-d-e41-fDeIxKsnsnTW28j9R56IefJeJE.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/784/path---writing-429-afb-zk1UH9swpzNdd0J8qOb1Pzm5ks.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\784\path---writing-429-afb-zk1UH9swpzNdd0J8qOb1Pzm5ks.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/883/path---contact-us-110-75b-2we8ZhOpKExQRevIA4qG3U3Ou8.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\883\path---contact-us-110-75b-2we8ZhOpKExQRevIA4qG3U3Ou8.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/888/path---language-editing-services-language-editing-express-d-44-12c-h4uUsqu4CcVia5hcFg3IxFjMWoU.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\888\path---language-editing-services-language-editing-express-d-44-12c-h4uUsqu4CcVia5hcFg3IxFjMWoU.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/static/d/940/path---language-translation-services-translate-chinese-simplified-b-9-b-e55-IRq262DXZouOL036UzawARxMKRQ.json
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\d\940\path---language-translation-services-translate-chinese-simplified-b-9-b-e55-IRq262DXZouOL036UzawARxMKRQ.json
+Content Type: application/json
+
+Uri: https://cn.webshop.elsevier.com/submission/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\submission\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/webpack-runtime-3c023a0418d1372a0815.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\webpack-runtime-3c023a0418d1372a0815.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/writing/
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\writing\index.htm
+Content Type: text/html
+
+Uri: https://cn.webshop.elsevier.com/_onelink_/elsevier/en2zh/images/images/formats.svg
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\_onelink_\elsevier\en2zh\images\images\formats.svg
+Content Type: image/svg+xml
+
+Uri: https://cn.webshop.elsevier.com/_onelink_/elsevier/en2zh/js/els-282.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\_onelink_\elsevier\en2zh\js\els-282.js
+Content Type: application/javascript
+
+Uri: https://cn.webshop.elsevier.com/_onelink_/elsevier/en2zh/onelink.css
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\_onelink_\elsevier\en2zh\onelink.css
+Content Type: text/css
+
+Uri: https://connect.facebook.net/en_US/fbevents.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\en_US\fbevents.js
+Content Type: application/x-javascript
+
+Uri: https://hm.baidu.com/hm.js?2a7cc334cdf90770ccbb1a38d57ea3d1
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\hm-2.js
+Content Type: text/plain
+
+Uri: https://hm.baidu.com/hm.js?4850c29a6da23a42d0871563911f47c5
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\hm.js
+Content Type: text/plain
+
+Uri: https://hm.baidu.com/hm.js?db533dbc6f0b34d6a75a06f2e50bf8fc
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\hm-1.js
+Content Type: text/plain
+
+Uri: https://hmcdn.baidu.com/static/tongji/plugins/UrlChangeTracker.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\static\tongji\plugins\UrlChangeTracker.js
+Content Type: application/x-javascript
+
+Uri: https://s.union.360.cn/368688.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\368688.js
+Content Type: text/plain
+
+Uri: https://script.hotjar.com/modules.7cafb00353603cadd6c4.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\modules.7cafb00353603cadd6c4.js
+Content Type: application/javascript
+
+Uri: https://snap.licdn.com/li.lms-analytics/insight.min.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\li.lms-analytics\insight.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.hotjar.com/c/hotjar-1205451.js?sv=6
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\c\hotjar-1205451.js
+Content Type: application/javascript
+
+Uri: https://static.zdassets.com/ekr/snippet.js?key=96e92737-3771-442e-9590-543dcdcfa37b
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\ekr\snippet.js
+Content Type: application/javascript
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\analytics.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-7D01QC2BMF&l=dataLayer&cx=c
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtm.js?id=GTM-MM6Z3LV
+File Name: C:\Downloaded Web Sites\cn.webshop.elsevier.com\gtm.js
+Content Type: application/javascript
+
