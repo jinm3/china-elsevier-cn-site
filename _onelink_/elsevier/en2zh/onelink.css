@@ -1,18 +1,18 @@
 /* CSS file for en2zh */
 
 /*ELS-25*/
-.pay-frame a{
-	font-size:12px!important;
+.pay-frame a {
+  font-size: 12px !important;
 }
 
 /*ELS-57*/
-.selection-product .select .row{
-	width: 300px!important;
+.selection-product .select .row {
+  width: 300px !important;
 }
 
 /*ELS-24*/
-.homeServiceTeaser_left{
-/*	background-image:url() !important; */
+.homeServiceTeaser_left {
+  /*	background-image:url() !important; */
 }
 
 /*ELS-84*/
@@ -32,7 +32,7 @@ select#formatSelect {
   float: left;
   margin-left: 10px;
 }
-select[name="prodtype"] {
+select[name='prodtype'] {
   float: left;
   margin-left: 10px;
 }
@@ -42,7 +42,7 @@ select[name="prodtype"] {
 .select .holder {
   width: auto;
 }
-#content .selection-product .select fieldset .holder .row > div{
+#content .selection-product .select fieldset .holder .row > div {
   clear: unset !important;
 }
 select#posterSize {
@@ -57,108 +57,137 @@ p.ELS-87 {
 /*ELS-118*/
 .product-info .cover-box span {
   font-size: 14px;
-
 }
 
 /*ELS 135 Channge all the font for elseveir*/
 
 * {
-  font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
-    
+  font-family: Arial, Helvetica, 'Microsoft YaHei New', 'Microsoft Yahei',
+    '微软雅黑', 宋体, SimSun, STXihei, '华文细黑', sans-serif;
 }
-h1, h2, h3, h4{
- font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif !important ;
-    
+h1,
+h2,
+h3,
+h4 {
+  font-family: Arial, Helvetica, 'Microsoft YaHei New', 'Microsoft Yahei',
+    '微软雅黑', 宋体, SimSun, STXihei, '华文细黑', sans-serif !important ;
 }
-.list > *{
-font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif !important ;
-    
+.list > * {
+  font-family: Arial, Helvetica, 'Microsoft YaHei New', 'Microsoft Yahei',
+    '微软雅黑', 宋体, SimSun, STXihei, '华文细黑', sans-serif !important ;
 }
-tbody > *{
-font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif !important;
-    
+tbody > * {
+  font-family: Arial, Helvetica, 'Microsoft YaHei New', 'Microsoft Yahei',
+    '微软雅黑', 宋体, SimSun, STXihei, '华文细黑', sans-serif !important;
 }
 
-.pay-frame a, p, li, ul, em, div, a, span, title, .simpleSidebarTeaser a.titleLink h2, #journalsubscriptions h1, #sitemap h1, .articles #content h1.formerH2, .articles #content h2, .psDetails h1, .subscriptionTeaser h1, input, select, textarea, .content .main-product h3, .content .products h3,.content .products h2,.content .main-product p, .content .products p, .content .main-product h2,.content .contact h4 {
-font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif !important;
-}*/
-*>*:not(i){
-font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif !important;
+.pay-frame a,
+p,
+li,
+ul,
+em,
+div,
+a,
+span,
+title,
+.simpleSidebarTeaser a.titleLink h2,
+#journalsubscriptions h1,
+#sitemap h1,
+.articles #content h1.formerH2,
+.articles #content h2,
+.psDetails h1,
+.subscriptionTeaser h1,
+input,
+select,
+textarea,
+.content .main-product h3,
+.content .products h3,
+.content .products h2,
+.content .main-product p,
+.content .products p,
+.content .main-product h2,
+.content .contact h4 {
+  font-family: Arial, Helvetica, 'Microsoft YaHei New', 'Microsoft Yahei',
+    '微软雅黑', 宋体, SimSun, STXihei, '华文细黑', sans-serif !important;
+}
+*/ * > *:not(i) {
+  font-family: Arial, Helvetica, 'Microsoft YaHei New', 'Microsoft Yahei',
+    '微软雅黑', 宋体, SimSun, STXihei, '华文细黑', sans-serif !important;
 }
 
 /*END */
 
-
-#content .link, #content .twocolumn .block .link {
-     font-size: 12px;
+#content .link,
+#content .twocolumn .block .link {
+  font-size: 12px;
 }
 .selection-product h3 a {
-     font-size: 12px;
- }
+  font-size: 12px;
+}
 .please_note {
-     font-size: 12px; 
+  font-size: 12px;
 }
 .additional_info {
-   font-size: 12px;
+  font-size: 12px;
 }
 #journalsubscriptions .productdetail .info .box .title {
-    font-size: 12px;
+  font-size: 12px;
 }
 .user-menu li {
-    font-size: 12px;
+  font-size: 12px;
 }
 #nav li {
-    font-size: 12px;
+  font-size: 12px;
 }
 #content .twocolumn .rightcolumn .row span {
-    font-size: 12px;
+  font-size: 12px;
 }
 #steps {
-    font-size: 12px;
+  font-size: 12px;
 }
 #journalsubscriptions .refinesearch .showless {
-     font-size: 12px;
+  font-size: 12px;
 }
 #journalsubscriptions .refinesearch .showmore {
-    font-size: 12px;
+  font-size: 12px;
 }
 .simpleSidebarTeaser a.titleLink h2.performAsH3 {
-    font-size: 12px !important;
+  font-size: 12px !important;
 }
 .specialOfferContent a.titleLink h2.performAsH3 {
-     font-size: 12px !important;
- }
+  font-size: 12px !important;
+}
 #content .link a {
-      font-size: 12px/14px;
+  font-size: 12px/14px;
 }
 #content .twocolumn .block .date {
-    font-size: 12px/13px;
+  font-size: 12px/13px;
 }
 
 /*ELS-128*/
 #subscriptionsLeft .subscriptionTeaser p br:first-child {
-    display: none;
+  display: none;
 }
 #content .twocolumn .block .date {
-     width: 100px;
+  width: 100px;
 }
 
 /*POPUP*/
 .messagepop {
-	width: 40%;
-	background-color:rgba(238,236,225,0.9);	
-	border:5px solid #EE5700;
-	position:absolute;
-	text-align:left;
-	border-radius:8px;
-	z-index:50;
-	padding: 10px 10px 10px;
-	font-size: 12px;
-	color: black;
-	line-height: 18px;
-	right:30%;
-	top:150px;
-	/* Chrome, Safari, Opera 
+  width: 40%;
+  background-color: rgba(238, 236, 225, 0.9);
+  border: 5px solid #ee5700;
+  position: absolute;
+  text-align: left;
+  border-radius: 8px;
+  z-index: 50;
+  padding: 10px 10px 10px;
+  font-size: 12px;
+  color: black;
+  line-height: 18px;
+  right: 30%;
+  top: 150px;
+  /* Chrome, Safari, Opera 
 	-webkit-animation-name: myfirst;
 	-webkit-animation-duration: 20s;
 	-webkit-animation-timing-function: easy-in;
@@ -167,8 +196,8 @@ font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软
 	-webkit-animation-direction: alternate;
 	-webkit-animation-play-state: running;
 */
-	/* Standard syntax */
-/*	animation-name: myfirst;
+  /* Standard syntax */
+  /*	animation-name: myfirst;
 	animation-duration: 30s;
 	animation-timing-function: linear;
 	animation-delay: 0s;
@@ -176,163 +205,212 @@ font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软
 	animation-direction: alternate;
 	animation-play-state: running;
 */
-    /*IE 8 & IE 9*/
+  /*IE 8 & IE 9*/
   /*  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=95)";
 	filter: alpha(opacity=95);*/
 }
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes myfirst {
-	0%  {opacity:0;}
-	3%  {opacity:0.4;}
-	5% {opacity:0.7;}
-	10% {opacity:0.9;}
-	20% {opacity:1;}
-	30% {opacity:1;}
-	40% {opacity:1;}
-	50% {opacity:1;}
-	60% {opacity:1;}
-	70% {opacity:1;}
-	80% {opacity:1; }
-	90% {opacity:1; }
-	100% {display:none; }
-
+  0% {
+    opacity: 0;
+  }
+  3% {
+    opacity: 0.4;
+  }
+  5% {
+    opacity: 0.7;
+  }
+  10% {
+    opacity: 0.9;
+  }
+  20% {
+    opacity: 1;
+  }
+  30% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    display: none;
+  }
 }
-
 
 /* Standard syntax */
 @keyframes myfirst {
-	0%  {opacity:0;}
-	3%  {opacity:0.4;}
-	5% {opacity:0.7;}
-	10% {opacity:0.9;}
-	20% {opacity:1;}
-	30% {opacity:1;}
-	40% {opacity:1;}
-	50% {opacity:1;}
-	60% {opacity:1;}
-	70% {opacity:1;}
-	80% {opacity:1; }
-	90% {opacity:1; }
-	100% {display:none; }
+  0% {
+    opacity: 0;
+  }
+  3% {
+    opacity: 0.4;
+  }
+  5% {
+    opacity: 0.7;
+  }
+  10% {
+    opacity: 0.9;
+  }
+  20% {
+    opacity: 1;
+  }
+  30% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    display: none;
+  }
 }
 
-.close{
-	position:absolute;
-	right:20px;
-	font-size:20px;
-	color: black;
-	text-decoration:none;
-	background:none!important;
-	border:none; 
-    padding:0!important;
-	cursor: pointer;
+.close {
+  position: absolute;
+  right: 20px;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  background: none !important;
+  border: none;
+  padding: 0 !important;
+  cursor: pointer;
 }
 
-.messagepop p, .messagepop li{
-	margin-top:25px;
-	padding-left:5%;
+.messagepop p,
+.messagepop li {
+  margin-top: 25px;
+  padding-left: 5%;
 }
 
-.messagepop ul{
-	list-style-type: none;
+.messagepop ul {
+  list-style-type: none;
 }
 
-@media all\0 { 
-.messagepop {
-	width: 40%;
-	background-color:#eeece1;	
-	border:5px solid #EE5700;
-	position:absolute;
-	text-align:left;
-	border-radius:8px;
-	z-index:50;
-	padding: 10px 10px 10px;
-	font-size: 12px;
-	color: black;
-	line-height: 18px;
-	right:30%;
-	top:150px;
-}
-.close{
-	position:absolute;
-	right:20px;
-	font-size:20px;
-	color: black;
-	text-decoration:none;
-	background:none!important;
-	border:none; 
-	 padding:0!important;
-	cursor: pointer;
-}
+@media all\0 {
+  .messagepop {
+    width: 40%;
+    background-color: #eeece1;
+    border: 5px solid #ee5700;
+    position: absolute;
+    text-align: left;
+    border-radius: 8px;
+    z-index: 50;
+    padding: 10px 10px 10px;
+    font-size: 12px;
+    color: black;
+    line-height: 18px;
+    right: 30%;
+    top: 150px;
+  }
+  .close {
+    position: absolute;
+    right: 20px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    background: none !important;
+    border: none;
+    padding: 0 !important;
+    cursor: pointer;
+  }
 
-.messagepop p, .messagepop li{
-	margin-top:25px;
-	padding-left:5%;
-}
+  .messagepop p,
+  .messagepop li {
+    margin-top: 25px;
+    padding-left: 5%;
+  }
 
-.messagepop ul{
-	list-style-type: none;
-}
-
-} 
-
-
-@media screen\0 { 
-.messagepop {
-	width: 40%;
-	background-color:#eeece1;	
-	border:5px solid #EE5700;
-	position:absolute;
-	text-align:left;
-	border-radius:8px;
-	z-index:50;
-	padding: 10px 10px 10px;
-	font-size: 12px;
-	color: black;
-	line-height: 18px;
-	right:30%;
-	top:150px;
-}
-.close{
-	position:absolute;
-	right:20px;
-	font-size:20px;
-	color: black;
-	text-decoration:none;
-	background:none!important;
-	border:none; 
-	 padding:0!important;
-	cursor: pointer;
+  .messagepop ul {
+    list-style-type: none;
+  }
 }
 
-.messagepop p, .messagepop li{
-	margin-top:25px;
-	padding-left:5%;
+@media screen\0 {
+  .messagepop {
+    width: 40%;
+    background-color: #eeece1;
+    border: 5px solid #ee5700;
+    position: absolute;
+    text-align: left;
+    border-radius: 8px;
+    z-index: 50;
+    padding: 10px 10px 10px;
+    font-size: 12px;
+    color: black;
+    line-height: 18px;
+    right: 30%;
+    top: 150px;
+  }
+  .close {
+    position: absolute;
+    right: 20px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    background: none !important;
+    border: none;
+    padding: 0 !important;
+    cursor: pointer;
+  }
+
+  .messagepop p,
+  .messagepop li {
+    margin-top: 25px;
+    padding-left: 5%;
+  }
+
+  .messagepop ul {
+    list-style-type: none;
+  }
 }
-
-.messagepop ul{
-	list-style-type: none;
-}
-
-} 
-
 
 /*ELS-185*/
 #rn_Header #rn_SearchControls {
-    display: none !important;
+  display: none !important;
 }
 
 /*ELS-213*/
 
 #EditingForm .formfieldname br:first-child {
-    display: none;
+  display: none;
 }
 
 /*ELS-206*/
-.formfieldname span{
-	display: block;
-    width: 300px;
+.formfieldname span {
+  display: block;
+  width: 300px;
 }
 
 /*ELS-222*/
@@ -342,7 +420,7 @@ font-family: Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软
 
 /*ELS-230*/
 .illustrationservices .article-box div:nth-child(4) {
-   width:95% !important;
+  width: 95% !important;
 }
 
 a#showCatalogueTrigger {
@@ -350,59 +428,58 @@ a#showCatalogueTrigger {
 }
 
 /*ELS-193*/
-form[name="offprintForm"] div table tbody tr:last-child td:nth-child(3) {
-   white-space: nowrap;
+form[name='offprintForm'] div table tbody tr:last-child td:nth-child(3) {
+  white-space: nowrap;
 }
 
 /*ELS-263*/
 #customerForm .primary-alternative-button div {
-   display:none;
+  display: none;
 }
 
 /*ELS-262*/
 .material-upload-holder.upload-required .dz-clickable.bw1.btn1 .l::after {
-    content: "上传文件 *" !important;
+  content: '上传文件 *' !important;
 }
 
 .material-upload-holder .dz-clickable.bw1.btn1 .l::after {
-    content: "上传文件";
+  content: '上传文件';
 }
 
 /*ELS-261*/
 #voucherbox tr td:last-child {
-    width: 20%;
+  width: 20%;
 }
 
 /*ELS-255*/
 
-a[aria-label="facebook"],
-a[aria-label="linkedin"],
-a[aria-label="twitter"],
-a[aria-label="youtube"] {
-	display:none;
+a[aria-label='facebook'],
+a[aria-label='linkedin'],
+a[aria-label='twitter'],
+a[aria-label='youtube'],
+a[aria-label='pinterest'] {
+  display: none;
 }
 
-
-.OLseo{
-color: rgb(0, 115, 152);
+.OLseo {
+  color: rgb(0, 115, 152);
 }
-.OLseo:hover{
-text-decoration:underline
+.OLseo:hover {
+  text-decoration: underline;
 }
 
 /*ELS-295*/
-.eNGNVH{
-font-size:19px;
+.eNGNVH {
+  font-size: 19px;
 }
-@media only screen and (min-width: 800px){
-	#els2951{
-		font-size:37px;
-	}
-	#els2952{
-        font-size:46px;
-    }
-	#els2953{
-        font-size:19px;
-    }
+@media only screen and (min-width: 800px) {
+  #els2951 {
+    font-size: 37px;
+  }
+  #els2952 {
+    font-size: 46px;
+  }
+  #els2953 {
+    font-size: 19px;
+  }
 }
-
